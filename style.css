@@ -1,0 +1,16 @@
+h3
+{
+  font-size: 25px !important;
+  color:cyan;
+}
+canvas {
+    border:1px solid rgb(0, 47, 255);
+}
+
+body{
+    background:linear-gradient(#341f97,#5f27cd,#e84393,#fd79a8,#81ecec,#a29bfe,#55efc4,#34e7e4);
+}
+
+button{
+    background:linear-gradient(#00d2d3,#32ff7e);
+}
